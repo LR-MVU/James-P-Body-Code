@@ -1,4 +1,4 @@
-# James-s-P-Body-Code
+# James-P-Body-Code
 This program produces additional analysis on P-Body and mRNA information in the dendrites and soma of neurons. It requires the user to input folder paths for the following
   - Dendritic and Soma prints
   - Soma P-Body results
